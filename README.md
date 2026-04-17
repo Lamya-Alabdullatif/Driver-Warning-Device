@@ -5,9 +5,9 @@ An Arduino-based system designed to detect driver drowsiness and alert the drive
 ---
 
 ## 👩‍💻 Team Members
-- Lamya Alabdullatif
-- Dana Alturaif
-- Shatha Alsharidah
+- Lamya Alabdullatif  
+- Dana Alturaif  
+- Shatha Alsharidah  
 
 ---
 
@@ -27,8 +27,8 @@ This project aims to improve road safety by detecting unusual head movement usin
 ---
 
 ## 📄 Project Files
-- 📘 Final Report (PDF)
-- 📊 Poster (PDF)
+- 📘 Final Report → [REPORT.pdf](REPORT.pdf)  
+- 📊 Poster → [POSTER.pdf](POSTER.pdf)  
 
 ---
 
@@ -44,4 +44,9 @@ This project aims to improve road safety by detecting unusual head movement usin
 - Add eye-tracking system  
 - Improve accuracy  
 - Mobile app integration  
+
+---
+
+## 📬 Contact
+Lamya Alabdullatif
 
