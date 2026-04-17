@@ -45,8 +45,3 @@ This project aims to improve road safety by detecting unusual head movement usin
 - Improve accuracy  
 - Mobile app integration  
 
----
-
-## 📬 Contact
-Lamya Alabdullatif
-
