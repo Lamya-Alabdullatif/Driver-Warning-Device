@@ -2,12 +2,6 @@
 
 An Arduino-based system designed to detect driver drowsiness and alert the driver using a buzzer.
 
----
-
-## Team Members
-- Lamya Alabdullatif  
-- Dana Alturaif  
-- Shatha Alsharidah  
 
 ---
 
